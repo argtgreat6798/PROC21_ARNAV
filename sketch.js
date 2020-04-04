@@ -10,6 +10,6 @@ function setup() {
 function draw() {
   background(55,75,27);  
   drawSprites();
-  helmet.display()
-  normal.display()
+  helmet.display();
+  normal.display();
 }
